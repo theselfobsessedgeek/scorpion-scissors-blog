@@ -1,0 +1,53 @@
+.card-body {
+  font-size: 14px;
+  line-height: 20px;
+  margin: 0px 0;
+  text-align: justify;
+}
+.card {
+  background: #FFF;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 5px 5px;
+  transition: all 0.5s ease-out;
+  border: 2px solid black;
+}
+
+.card:hover {
+  box-shadow: 0 0 6px dimgrey;
+}
+
+
+.social-box .box-btn a {
+  color: black;
+  font-size: 5px;
+  text-decoration: underline;
+}
+
+
+.card-header{
+  font-size: 10px;
+  padding-inline:2px;
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-top-color: black;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-right-color: black;
+  border-left-width: 0px;
+  border-left-style: solid;
+  border-left-color: black;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+  padding: 10px 9px;
+  /*border-radius: 10px 10px 0px 0px;*/
+
+
+  /*text-align: justify;*/
+}
+
+.badge{
+  border-radius: 20px;
+}
+
