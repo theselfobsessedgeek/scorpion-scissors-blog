@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "scorpion-scissors": {
+      "hosting": {
+        "scorpion-scissors-blog": [
+          "scorpion-scissors"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "scorpion-scissors"
+  }
+}
